@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy>=1.4.0
+supabase-py
+openai
+python-dotenv
