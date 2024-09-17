@@ -1,4 +1,4 @@
-# Bowling Shoes Rental Service for Kode Across Technical Examination
+# Bowling Shoes Rental Service for
 
 Description: This is a backend service for bowling shoes rental. It has the following
 features as listed below.
