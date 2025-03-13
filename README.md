@@ -13,7 +13,7 @@ features as listed below.
 
 1. Cloning the repository:
     ```sh
-    git clone <repository_url>](https://github.com/JARevilla/ShoeRentalService.git)
+    git clone https://github.com/JARevilla/ShoeRentalService.git
     cd bowling_shoes_rental_service
     ```
 2. Create and activate a virtual environment:
